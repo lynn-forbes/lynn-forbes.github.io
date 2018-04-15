@@ -1,4 +1,0 @@
-Sitemap: https://alum.mit.edu/www/mforbes/lynn/sitemapindex.xml
-
-User-Agent: *
-Host: alum.mit.edu
