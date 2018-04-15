@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://alum.mit.edu/www/mforbes/lynn/</loc>
+  <lastmod>2018-04-15T18:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://alum.mit.edu/www/mforbes/lynn/archive.html</loc>
+  <lastmod>2018-04-15T18:34:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://alum.mit.edu/www/mforbes/lynn/blog/</loc>
+  <lastmod>2018-04-15T18:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://alum.mit.edu/www/mforbes/lynn/categories/</loc>
+  <lastmod>2018-04-15T18:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://alum.mit.edu/www/mforbes/lynn/listings/</loc>
+  <lastmod>2018-04-15T18:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://alum.mit.edu/www/mforbes/lynn/listings/__pycache__/</loc>
+  <lastmod>2018-04-15T18:44:00Z</lastmod>
+ </url>
+</urlset>
