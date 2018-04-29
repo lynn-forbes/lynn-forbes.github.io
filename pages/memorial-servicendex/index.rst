@@ -18,6 +18,9 @@ A service remembering Lynn will be held at `Christ Church`_, Elbow Park:
   All wanting to remember Lynn and celebrate her life are welcome. *If you plan to attend, please send a brief note to Michael with the number of people who plan to attend so we can plan the reception:* **RSVP:** `Michael McNeil Forbes`_
 
 
+
+	
+
 .. TEASER_END
 
 .. _Christ Church: http://www.christchurchcalgary.org/
