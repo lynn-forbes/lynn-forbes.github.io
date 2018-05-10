@@ -26,11 +26,16 @@ A mother's day lunch with Bob White and Marion White
    :width: 40%
                                          
    At Bob's wedding, with Marion: July 1979
+
+.. figure:: /images/Heather/Lynn014.jpg
+   :width: 40%
+                                         
+   Lynn with Michael, Summer 1979
    
 .. figure:: /images/Heather/Lynn030.jpg
    :width: 40%
                                          
-   Sitting with Jill White at Mitchaeland Katheryn's wedding reception
+   Sitting with Jill White at Mitchael and Katheryn's wedding reception, July 22, 2000.
 
 .. figure:: /images/Heather/Lynn017.jpg
    :width: 40%

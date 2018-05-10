@@ -1,7 +1,7 @@
 :title: Childhood
 :slug: childhood
 :date: 2018-04-26 20:23:30 UTC-06:00
-:tags: draft
+:tags:
 :category: 
 :link: 
 :description: Some photos and material about Lynn's childhood.
@@ -9,16 +9,21 @@
 :type: text
 
 .. TEASER_END
+
+.. class:: image left
+
+.. figure:: /images/Heather/Lynn016b.jpg
+   :width: 100%
 	
-Lynn was born in Moncton__, `Westmorland County`__, on 1 November 1941.
+   Lynn as a baby in her mother's arms: Outside 39 Cambridge Street, Halifax, 1942.
+	 
+Lynn was born in Moncton__, `Westmorland County`__, on 1 November 1941.  She
+lived for a while in the Martimes before moving out west to Calgary with her
+parents and her brother Bob.
 
 __ https://www.google.ca/maps/place/Moncton,+NB/@46.1131694,-64.9406838,11z/data=!3m1!4b1!4m5!3m4!1s0x4ca0b92918d41765:0xdc10a333a4e63c4!8m2!3d46.0878165!4d-64.7782313)
 __ https://en.wikipedia.org/wiki/Westmorland_County,_New_Brunswick
 
-.. figure:: /images/Heather/Lynn016b.jpg
-   :width: 40%
-                                            
-   Lynn as a baby in her mother's arms: Outside 39 Cambridge Street, Halifax, 1942.
    
 .. figure:: /images/Heather/Lynn002b.jpg
    :width: 40%
@@ -33,7 +38,7 @@ __ https://en.wikipedia.org/wiki/Westmorland_County,_New_Brunswick
 .. figure:: /images/Heather/Lynn013.jpg
    :width: 40%
                                          
-   A birthday party for Lynn held at 3903 Elbow Drive SW, in Calgary. Counterclockwise from front right: Lynn, Len Teare, Ian Turner, unknown, Bob White, unknown, Rolf Sherlock.
+   A birthday party for Lynn held at 3903 Elbow Drive SW, in Calgary. Counterclockwise from front right: Lynn, Len Teare, Ian Turner,  unknown, Bob White, unknown, Rolf Sherlock. 
 
 .. figure:: /images/Heather/Lynn019.jpg
    :width: 40%

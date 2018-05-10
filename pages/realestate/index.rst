@@ -1,25 +1,29 @@
 :title: Real Estate
 :slug: realestate
 :date: 2018-04-26 20:23:30 UTC-06:00
-:tags: draft
+:tags:
 :category: 
 :link: 
-:description: Some photos and material about Lynn's childhood.
-:image: /images/Heather/Lynn026a.jpg
+:description: Lynn enjoyed a long career in real estate.
+:image: /images/Heather/Lynn012.jpg
 :type: text
 
 .. TEASER_END
 	
-Lynn was born in Moncton__, `Westmorland County`__, on 1 November 1941.
 
-__ https://www.google.ca/maps/place/Moncton,+NB/@46.1131694,-64.9406838,11z/data=!3m1!4b1!4m5!3m4!1s0x4ca0b92918d41765:0xdc10a333a4e63c4!8m2!3d46.0878165!4d-64.7782313)
-__ https://en.wikipedia.org/wiki/Westmorland_County,_New_Brunswick
-
-
-.. figure:: /images/Heather/Lynn002b.jpg
-   :width: 40%
+.. class:: image left
+	 
+.. figure:: /images/Heather/Lynn042.jpg
+   :width: 100%
                                          
-   Lynn playing in the water on Vancouver Island: 1944.
+   Lynn kept her sense of humour, even when work was challenging.
 
-
-
+After a job in international marketing, and a position with `Foremost Mobile
+Equipment <http://foremost.ca/>`_, Lynn started her career as a real-estate
+agent.  She worked for a while in commercial, but settled in the residential
+market "south of the river", starting with Doherty Brothers, then moving to
+P.J. Toole & Cote, Toole Peet, and finishing with Remax.  Widely known as an
+expert in the city center, Lynn helped many people negotiate the real-estate
+market.  She particularly relished helping young couples get established,
+buying their first homes, and starting a life.  Many of her clients became
+life-long friends.

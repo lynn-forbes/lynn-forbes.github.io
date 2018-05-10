@@ -1,25 +1,49 @@
-:title: Writing
+:title: Stories
 :slug: writing
 :date: 2018-04-26 20:23:30 UTC-06:00
-:tags: draft
+:tags:
 :category: 
 :link: 
-:description: Some photos and material about Lynn's childhood.
-:image: /images/Heather/Lynn026a.jpg
+:description: Stories Lynn told and excerpts from her journal.
+:image: /images/Heather/Lynn046.jpg
 :type: text
 
+Lynn was known for her stories.  Sometimes apocryphal, occasionally *slightly*
+exaggerated, Lynn entertained for hours by telling stories.  Lynn kept a
+journal for "her book": here are some insights into the.
+
 .. TEASER_END
-	
-Lynn was born in Moncton__, `Westmorland County`__, on 1 November 1941.
 
-__ https://www.google.ca/maps/place/Moncton,+NB/@46.1131694,-64.9406838,11z/data=!3m1!4b1!4m5!3m4!1s0x4ca0b92918d41765:0xdc10a333a4e63c4!8m2!3d46.0878165!4d-64.7782313)
-__ https://en.wikipedia.org/wiki/Westmorland_County,_New_Brunswick
+One of her great skills was the ability to make people feel happy: her living
+room was a place of sanctuary - somewhere to get away from the pressures of
+every day, to share a glass of wine or scotch, and to be regaled by tales of
+mortification circumstances that seemed to always find Lynn.  A highlight was
+the day that Lynn's "water broke" at Safeway - which was published in the
+Readers Digest.
 
 
-.. figure:: /images/Heather/Lynn002b.jpg
-   :width: 40%
+
+	 
+.. figure:: /images/Heather/Lynn042.jpg
+   :width: 80%
+   
+.. figure:: /images/Heather/Lynn043.jpg
+   :width: 80%
                                          
-   Lynn playing in the water on Vancouver Island: 1944.
+.. figure:: /images/Heather/Lynn044.jpg
+   :width: 80%
 
+.. figure:: /images/Heather/Lynn045.jpg
+   :width: 80%
 
+.. figure:: /images/Heather/Lynn047.jpg
+   :width: 80%
 
+.. figure:: /images/Heather/Lynn048.jpg
+   :width: 80%
+
+.. figure:: /images/Heather/Lynn049.jpg
+   :width: 80%
+   
+.. figure:: /images/Heather/Lynn050.jpg
+   :width: 80%

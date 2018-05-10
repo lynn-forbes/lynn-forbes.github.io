@@ -7,26 +7,50 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://alum.mit.edu/www/mforbes/lynn/</loc>
-  <lastmod>2018-04-27T02:30:00Z</lastmod>
+  <lastmod>2018-05-05T18:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://alum.mit.edu/www/mforbes/lynn/archive.html</loc>
-  <lastmod>2018-04-16T01:21:00Z</lastmod>
+  <lastmod>2018-05-04T06:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://alum.mit.edu/www/mforbes/lynn/blog/</loc>
-  <lastmod>2018-04-27T02:30:00Z</lastmod>
+  <lastmod>2018-05-02T19:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://alum.mit.edu/www/mforbes/lynn/categories/</loc>
-  <lastmod>2018-04-27T02:30:00Z</lastmod>
+  <lastmod>2018-05-02T19:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://alum.mit.edu/www/mforbes/lynn/listings/</loc>
-  <lastmod>2018-04-27T02:30:00Z</lastmod>
+  <lastmod>2018-05-05T18:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://alum.mit.edu/www/mforbes/lynn/listings/__pycache__/</loc>
-  <lastmod>2018-04-27T02:30:00Z</lastmod>
+  <lastmod>2018-05-02T19:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://alum.mit.edu/www/mforbes/lynn/pages/animals/</loc>
+  <lastmod>2018-05-02T19:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://alum.mit.edu/www/mforbes/lynn/pages/childhood/</loc>
+  <lastmod>2018-05-02T19:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://alum.mit.edu/www/mforbes/lynn/pages/memorial-servicendex/</loc>
+  <lastmod>2018-05-02T19:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://alum.mit.edu/www/mforbes/lynn/pages/memories/</loc>
+  <lastmod>2018-05-05T19:31:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://alum.mit.edu/www/mforbes/lynn/pages/realestate/</loc>
+  <lastmod>2018-05-02T19:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://alum.mit.edu/www/mforbes/lynn/pages/writing/</loc>
+  <lastmod>2018-05-02T19:23:00Z</lastmod>
  </url>
 </urlset>

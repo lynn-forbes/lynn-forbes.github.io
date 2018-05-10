@@ -3,10 +3,12 @@
 
 :title: Memorial Service
 :date: 2018-05-04 11:00:00 UTC-06:00
-:tags: featured
+:tags:
 :image: http://www.christchurchcalgary.org/images/rosew2.jpg
 
-A service remembering Lynn will be held at `Christ Church`_, Elbow Park:
+A service remembering Lynn was held at `Christ Church`_, Elbow Park.
+
+.. TEASER_END
 
 :Where:
   `Christ Church`_, Elbow Park (see below for directions)
@@ -21,7 +23,6 @@ A service remembering Lynn will be held at `Christ Church`_, Elbow Park:
 
 	
 
-.. TEASER_END
 
 .. _Christ Church: http://www.christchurchcalgary.org/
 
